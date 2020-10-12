@@ -1,0 +1,1 @@
+[All my solutions from exercism.io](https://exercism.io/profiles/rodrigograca31)
